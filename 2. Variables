@@ -1,0 +1,7 @@
+// (reserved keyword): (variable name): (type of value)
+
+let variable; // undefined
+let name = "Parimal";
+console.log(name);
+const companyName = "WebDev Academy";
+console.log(companyName);
