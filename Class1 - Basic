@@ -7,7 +7,7 @@ console.log("Hello World");
 console.error("This is an ERROR");
 console.warn("Warning");
 console.table({ name: "Parimal", age: 22, location: ["Dev Bhumi Bharat"] });
-
+ 
 // ---------- COMMENTS ----------
 
 // This is one line comment
