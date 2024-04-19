@@ -1,0 +1,19 @@
+// JavaScript has one number type
+// Positive Number
+// Negative Number
+// Whole Number (integers)
+// Decimal Numbers
+
+const randomNumber = 100200;
+const favNumber = 52;
+let num = 2;
+
+// Basic Math
+console.log(22 + 2);
+console.log(22 - 2);
+console.log(2 * 22);
+console.log(2 / 22);
+console.log(22 % 2);
+console.log(22 ** 2);
+console.log(num++);
+console.log(num--);
