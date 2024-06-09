@@ -5,6 +5,7 @@
 // >= Greater Then or equal to
 // <= Less Then or equal to
 
+
 console.log(10 > 10);
 console.log(10 < 10);
 console.log(10 >= 10);
